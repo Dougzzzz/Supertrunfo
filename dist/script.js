@@ -83,8 +83,8 @@ var carta9 = {
   nome: "Seu Boneco - SUPERTRUNFO",
   imagem: "img/seubuneco.jpeg",
   atributos: {
-    Gingado: 3,
-    Seducao: 7,
+    Gingado: 10,
+    Seducao: 10,
     Dodoi: 10
   }
 };
